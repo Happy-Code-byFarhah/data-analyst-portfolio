@@ -21,7 +21,9 @@ Analyze behavioral differences between casual users and annual members of Cyclis
 - Casual riders prefer weekends and leisure rides, with longer average durations.  
 - Popular stations differ: members prefer business districts, casual riders prefer tourist/recreational areas.  
 
-📂 **[Project Files](./Cyclistic-Bike-Share-Analysis)**
+
+📂 **[Project Files](https://github.com/Happy-Code-byFarhah/data-analyst-portfolio/tree/a76546b405ef8ee0e0def2b3b25f7e4e38334e5c/Cyclistic-Bike-Share-Analysis)**  
+📊 **[Dataset](https://divvy-tripdata.s3.amazonaws.com/index.html)**
 
 ---
 
@@ -35,7 +37,8 @@ Analyze smart device usage patterns to identify trends that could inform Bellabe
 - Sleep patterns are generally healthy but vary significantly by individual.  
 - Activity and sleep are relatively consistent across weekdays and weekends.  
 
-📂 **[Project Files](./Bellabeat-Smart-Device-Usage)**
+📂 **[Project Files](https://github.com/Happy-Code-byFarhah/data-analyst-portfolio/tree/a76546b405ef8ee0e0def2b3b25f7e4e38334e5c/Bellabeat-Smart-Device-Usage)**  
+📊 **[Dataset](https://www.kaggle.com/datasets/arashnic/fitbit)**
 
 ---
 
@@ -49,7 +52,8 @@ Evaluate sales performance across Store, Outlet, and Online channels, identifyin
 - Outlet channel effective for high-volume sales but at lower prices.  
 - In-store channel had highest price per unit but lowest margin (36%).  
 
-📂 **[Project Files](./Adidas-US-Sales-Analysis)**
+📂 **[Project Files](https://github.com/Happy-Code-byFarhah/data-analyst-portfolio/tree/a76546b405ef8ee0e0def2b3b25f7e4e38334e5c/Adidas-US-Sales-Analysis)**  
+📊 **[Dataset](https://www.kaggle.com/datasets/manish9569/adidas-us-sales-data)**
 
 ---
 
@@ -82,7 +86,8 @@ Menganalisis perbedaan perilaku antara pengguna kasual dan anggota tahunan layan
 - Pengguna kasual cenderung bersepeda di akhir pekan dengan durasi lebih lama.  
 - Stasiun favorit berbeda: anggota memilih area perkantoran, kasual memilih area wisata/rekreasi.  
 
-📂 **[File Proyek](./Cyclistic-Bike-Share-Analysis)**
+📂 **[File Proyek](https://github.com/Happy-Code-byFarhah/data-analyst-portfolio/tree/a76546b405ef8ee0e0def2b3b25f7e4e38334e5c/Cyclistic-Bike-Share-Analysis)**  
+📊 **[Data](https://divvy-tripdata.s3.amazonaws.com/index.html)**
 
 ---
 
@@ -96,7 +101,8 @@ Menganalisis pola penggunaan perangkat pintar untuk mengidentifikasi tren yang d
 - Pola tidur umumnya sehat, namun bervariasi antar individu.  
 - Aktivitas dan tidur relatif konsisten antara hari kerja dan akhir pekan.  
 
-📂 **[File Proyek](./Bellabeat-Smart-Device-Usage)**
+📂 **[File Proyek](https://github.com/Happy-Code-byFarhah/data-analyst-portfolio/tree/a76546b405ef8ee0e0def2b3b25f7e4e38334e5c/Bellabeat-Smart-Device-Usage)**  
+📊 **[Data](https://www.kaggle.com/datasets/arashnic/fitbit)**
 
 ---
 
@@ -110,7 +116,8 @@ Mengevaluasi performa penjualan melalui kanal Store, Outlet, dan Online, mengide
 - Outlet efektif untuk penjualan volume tinggi, namun harga rata-rata rendah.  
 - In-store memiliki harga per unit tertinggi, namun margin terendah (36%).  
 
-📂 **[File Proyek](./Adidas-US-Sales-Analysis)**
+📂 **[File Proyek](https://github.com/Happy-Code-byFarhah/data-analyst-portfolio/tree/a76546b405ef8ee0e0def2b3b25f7e4e38334e5c/Adidas-US-Sales-Analysis)**  
+📊 **[Data](https://www.kaggle.com/datasets/manish9569/adidas-us-sales-data)**
 
 ---
 
