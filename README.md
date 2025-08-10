@@ -24,6 +24,8 @@ Analyze behavioral differences between casual users and annual members of Cyclis
 
 📂 **[Project Files](https://github.com/Happy-Code-byFarhah/data-analyst-portfolio/tree/a76546b405ef8ee0e0def2b3b25f7e4e38334e5c/Cyclistic-Bike-Share-Analysis)**  
 📊 **[Dataset](https://divvy-tripdata.s3.amazonaws.com/index.html)**
+**[Dashboard](https://public.tableau.com/app/profile/farhah.farhah/viz/Cyclistic_17514774328940/Dashboard1)**
+
 
 ---
 
@@ -39,6 +41,7 @@ Analyze smart device usage patterns to identify trends that could inform Bellabe
 
 📂 **[Project Files](https://github.com/Happy-Code-byFarhah/data-analyst-portfolio/tree/a76546b405ef8ee0e0def2b3b25f7e4e38334e5c/Bellabeat-Smart-Device-Usage)**  
 📊 **[Dataset](https://www.kaggle.com/datasets/arashnic/fitbit)**
+**[Dashboard](https://public.tableau.com/app/profile/farhah.farhah/viz/Bellabeat_17523040525980/Bellabeat)**
 
 ---
 
@@ -54,6 +57,7 @@ Evaluate sales performance across Store, Outlet, and Online channels, identifyin
 
 📂 **[Project Files](https://github.com/Happy-Code-byFarhah/data-analyst-portfolio/tree/a76546b405ef8ee0e0def2b3b25f7e4e38334e5c/Adidas-US-Sales-Analysis)**  
 📊 **[Dataset](https://www.kaggle.com/datasets/manish9569/adidas-us-sales-data)**
+**[Dashboard](https://public.tableau.com/app/profile/farhah.farhah/viz/AdidasUs2020-2021/AdidasUs2020-2021)**
 
 ---
 
@@ -88,6 +92,7 @@ Menganalisis perbedaan perilaku antara pengguna kasual dan anggota tahunan layan
 
 📂 **[File Proyek](https://github.com/Happy-Code-byFarhah/data-analyst-portfolio/tree/a76546b405ef8ee0e0def2b3b25f7e4e38334e5c/Cyclistic-Bike-Share-Analysis)**  
 📊 **[Data](https://divvy-tripdata.s3.amazonaws.com/index.html)**
+**[Dashboard](https://public.tableau.com/app/profile/farhah.farhah/viz/Cyclistic_17514774328940/Dashboard1)**
 
 ---
 
@@ -103,6 +108,7 @@ Menganalisis pola penggunaan perangkat pintar untuk mengidentifikasi tren yang d
 
 📂 **[File Proyek](https://github.com/Happy-Code-byFarhah/data-analyst-portfolio/tree/a76546b405ef8ee0e0def2b3b25f7e4e38334e5c/Bellabeat-Smart-Device-Usage)**  
 📊 **[Data](https://www.kaggle.com/datasets/arashnic/fitbit)**
+**[Dashboard](https://public.tableau.com/app/profile/farhah.farhah/viz/Bellabeat_17523040525980/Bellabeat)**
 
 ---
 
@@ -118,6 +124,7 @@ Mengevaluasi performa penjualan melalui kanal Store, Outlet, dan Online, mengide
 
 📂 **[File Proyek](https://github.com/Happy-Code-byFarhah/data-analyst-portfolio/tree/a76546b405ef8ee0e0def2b3b25f7e4e38334e5c/Adidas-US-Sales-Analysis)**  
 📊 **[Data](https://www.kaggle.com/datasets/manish9569/adidas-us-sales-data)**
+**[Dashboard](https://public.tableau.com/app/profile/farhah.farhah/viz/AdidasUs2020-2021/AdidasUs2020-2021)**
 
 ---
 
